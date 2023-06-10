@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EvaDepaz from Lima Perú
-- 👀 I’m interested in learning about programming every day.
-- 🌱 I’m currently learning Full stack development in Cibertec and other courses, and working on create web pages. 
+- 🌱 I’m currently learning FullStack Development at Cibertec Institute and with other courses by myself, also working on create apps, web pages. 
 - 📫 How to reach me: https://www.linkedin.com/in/depazengineer/
 
 <!---
